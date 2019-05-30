@@ -5,7 +5,7 @@ error_reporting(0);
 # Author      : Wahyu Arif P
 # Version     : v1
 # Created 	  : 07 Mei 2018 | 18:43:05
-# Last Update : 08 Mei 2018 | 07:20:21
+# Last Update : 30 Mei 2019 | 13:30:50
 # "Hargai Copyright jangan di Ubah!" 
 						-Wahyu Arif P
 **/
